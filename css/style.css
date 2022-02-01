@@ -9,10 +9,10 @@
   --font-secondary: 'Arvo', serif;
   --font-code: 'Roboto', monospace;
   --bg-color: #090d13;
-  --font-color: #ffffff;
-  --btn-bg-color: #ffffff;
+  --font-color: #e2b53a;
+  --btn-bg-color: #d18c25;
   --accent-color: #380a66;
-  --header-shadow: #000 0px 0px 5px;
+  --header-shadow: rgb(238, 171, 70) 0px 0px 5px;
 }
 
 * {
